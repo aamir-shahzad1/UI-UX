@@ -17,3 +17,21 @@ https://pattern.monster/waves-1/
 
 
 https://codepen.io/xram/pen/thLsk
+
+
+.image-eclipse {
+  background: #000;
+  background-image: url("https://storage.googleapis.com/proudcity/baysidewi/uploads/2021/05/home-exterior-today-180726-tease-1355945.jpg");
+  background-size: cover;
+  background-clip: border-box;
+  background-position: top;
+  object-fit: cover;
+  background-repeat: no-repeat;
+  display: inline-block;
+  margin: 0 1em 1em 0;
+  height: 540px;
+  width: 400px;
+  border-top-left-radius: 300px;
+  border-top-right-radius: 300px;
+}
+
